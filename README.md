@@ -1,3 +1,3 @@
 # AlgoExpert.io solutions in Kotlin
 
-./gradlew test
+`./gradlew test`
